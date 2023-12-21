@@ -1,5 +1,8 @@
 [日本語](#japanese) | [English](#english)
 
+Now Release: Beta1 (Everest)
+<!-- Next: 1.0 (Fuji) -->
+
 # Japanese
 ## ここはElementumOSのGitHub組織です！
 ElementumOSはBasix DE派生のLinuxディストリビューションです。
