@@ -8,11 +8,11 @@ Now Release: Beta1 (Everest)
 ElementumOSは日常利用に重点を置いたBasix Debian Edition派生のディストリビューションです。
 
 ### 特徴
-* 通常のLinuxカーネルの代わりにLiquorixと呼ばれる負荷が1~3%増加するがシステムの応答性を向上させるカスタムカーネルを利用
+* 通常のLinuxカーネルの代わりにLiquorix Kernelと呼ばれるZen Kernel派生のカスタムカーネルを利用
 * カスタマイズ性の高いXfce4とLightDM (web-greeter)を採用
 
 ### Editions
-| 名前                     | 画像 | 
+| 名前                      | 画像 | 
 | ------------------------ | ---- | 
 | Xfce Edition             |   ![](assets/xfce-edition.png)   | 
 
