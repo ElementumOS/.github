@@ -8,7 +8,7 @@ Now Release: Beta1 (Everest)
 ElementumOSは日常利用に重点を置いたBasix Debian Edition派生のディストリビューションです。
 
 ### 特徴
-* 通常のLinuxカーネルの代わりにLiquorixと呼ばれる1~3%のパフォーマンスの犠牲と引き換えにシステムの応答性を向上させるカスタムカーネルを利用
+* 通常のLinuxカーネルの代わりにLiquorixと呼ばれる負荷が1~3%増加するがシステムの応答性を向上させるカスタムカーネルを利用
 * カスタマイズ性の高いXfce4とLightDM (web-greeter)を採用
 
 ### Editions
@@ -19,3 +19,15 @@ ElementumOSは日常利用に重点を置いたBasix Debian Edition派生のデ�
 # English
 ## here is ElementumOS's GitHub Organization!
 ElementumOS is a Linux distribution derived from Basix DE.
+
+
+# Credits
+## Themes
+* [ZorinBlue-Light](https://github.com/ZorinOS/org.gtk.Gtk3theme.ZorinBlue-Light) by [ZorinOS](https://github.com/ZorinOS)
+## icons
+* [Tela circle icon theme](https://www.xfce-look.org/p/1359276/) by [VINCELIUICE](https://www.xfce-look.org/u/vinceliuice)
+## Wallpapers
+* [Lake forest](https://www.xfce-look.org/p/2115368) by [BRONIK](https://www.xfce-look.org/u/bronik)
+## Others
+* [JezerM/web-greeter](https://github.com/JezerM/web-greeter) by [JezerM](https://github.com/JezerM)
+* [hertg/lightdm-neon](https://github.com/hertg/lightdm-neon) by [hertg](https://github.com/hertg)
