@@ -14,7 +14,7 @@ ElementumOSは日常利用に重点を置いたBasix Debian Edition派生のデ�
 ### Editions
 | 名前                     | 画像 | 
 | ------------------------ | ---- | 
-| Xfce Edition             |   ![](assets/xfce.png)   | 
+| Xfce Edition             |   ![](assets/xfce-edition.png)   | 
 
 # English
 ## here is ElementumOS's GitHub Organization!
